@@ -5,7 +5,6 @@
 
 English | [中文](./README_ZH.md)
 
-
 # `@huolala-tech/page-spy-browser`
 
 [![SDK version][npm-image]][npm-url]
